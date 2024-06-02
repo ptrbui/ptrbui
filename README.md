@@ -1,6 +1,6 @@
 ### Hello! Thanks for visiting my GitHub.
 
-For my professional experience and summary please visit my [website](https://pbui.io) or [LinkedIn](https://www.linkedin.com/in/ptrbui).
+Please visit my [website](https://pbui.io) or [LinkedIn](https://www.linkedin.com/in/ptrbui) for my professional experience and summary.
 
 ### Favorite Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
